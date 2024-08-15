@@ -1,0 +1,9 @@
+.h1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+@media(max-width:500px){
+    .h1{max-width: 500px;}
+}
